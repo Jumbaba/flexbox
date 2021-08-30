@@ -16,6 +16,7 @@ header{
 }
 
 header h1{
+    font-size:52px;
     color: white;
     text-align: center;
     margin: 0;
@@ -47,6 +48,7 @@ header nav ul li a{
 
     }
     header h1{
+        font-size: 48px;
         margin: 14px 0;
         padding:0;
     }
